@@ -27,3 +27,11 @@ nav {
     padding-top: 8px;
     padding-bottom: 8px;
 }
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
