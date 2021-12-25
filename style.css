@@ -2,7 +2,28 @@ html {
     height: 100%;
 }
 
+body {
+    background-color: #2f3035;
+    background-image: url(images/background-adare-restaurant.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
 header {
     height: 118px;
     text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.336);
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
