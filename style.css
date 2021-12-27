@@ -70,3 +70,9 @@ nav a{
 .maps {
     padding-bottom: 100px;
 }
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+}
